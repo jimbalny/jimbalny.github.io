@@ -22,14 +22,14 @@ I started 3D printing back in 2012 sending my STL files to 3rd party print servi
 
 Replacing the Rambo board in the Taz 5 with the 32 bit SKR 1.4 Turbo.
 
-*Current Progress:*
+**Current Progress:**
 
 [x] Firmware modifications (Marlin 2.0.x)
-[ ] Design new control box enclosure (In Process)
+[ ] Design new control box enclosure *(In Progress)*
 [ ] Wiring and board replacement
 [ ] Test and first prints
 
-#### *Octoprint Membrane Keypad Plug-In*
+#### **Octoprint Membrane Keypad Plug-In**
 
 [Octoprint Plug-In GitHub Repository](https://github.com/jimbalny/Octoprint-MembraneKeypad)
 

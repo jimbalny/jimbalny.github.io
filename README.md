@@ -8,8 +8,11 @@ This is the future home of all my current and past projects with all applicable 
 
 I'm an elevator constructor and electrician by day, Nerd by night. I've always been interested in invention, tinkering with electronics and programming but still love getting my hands dirty and making stuff work with these heavily calloused hands. I thought I could find that mix of disciplines being an Electrician but the work was repetitive and money wasn't all that great. Elevator construction is where I've found that so many different disciplines I love really intersect.
 
-![Local 1](https://jimbalny.github.io/images/local1.png)
 Proud Union Member!
+
+![Local 1](https://jimbalny.github.io/images/local1.png)
+
+
 
 
 ## 3D Printing

@@ -10,7 +10,9 @@ When I saw the reprap project for the first time and how the plans for these awe
 
 I started 3D printing back in 2012 sending my STL files to 3rd party print services. Bought my first 3D printer in 2015, a Lulzbot Taz 5. For my first machine I wanted something open source in the same vein as the RepRap project and that would be a workhorse with a large print volume. The Taz 5 did not disappoint. 5 Years later she's still running strong with the exception of a few worn igus bushings and gt2 belts that needed replacing.
 
-### Current projects
+
+
+## Current projects
 
 #### **Taz 5 SKR 1.4 Turbo Upgrade**
 

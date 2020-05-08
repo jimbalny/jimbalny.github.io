@@ -24,10 +24,10 @@ Replacing the Rambo board in the Taz 5 with the 32 bit SKR 1.4 Turbo.
 
 **Current Progress:**
 
-[x] Firmware modifications (Marlin 2.0.x)
-[ ] Design new control box enclosure *(In Progress)*
-[ ] Wiring and board replacement
-[ ] Test and first prints
+> - [x] Firmware modifications (Marlin 2.0.x)
+> - [ ] Design new control box enclosure *(In Progress)*
+> - [ ] Wiring and board replacement
+> - [ ] Test and first prints
 
 #### **Octoprint Membrane Keypad Plug-In**
 

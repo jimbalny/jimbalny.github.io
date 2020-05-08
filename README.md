@@ -29,6 +29,10 @@ Replacing the Rambo board in the Taz 5 with the 32 bit SKR 1.4 Turbo.
 > - [ ] Wiring and board replacement
 > - [ ] Test and first prints
 
+**Enclosure Preview:**
+
+![Enclosure Preview](https://jimbalny.github.io/images/TazSKR_preview.png)
+
 #### **Octoprint Membrane Keypad Plug-In**
 
 > [Octoprint Plug-In GitHub Repository](https://github.com/jimbalny/Octoprint-MembraneKeypad)

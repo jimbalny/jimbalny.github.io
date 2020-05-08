@@ -4,6 +4,8 @@ This is the future home of all my current and past projects with all applicable 
 
 ### 3D Printing
 
+![My modified Taz 5](https://jimbalny.github.io/images/mytaz.png)
+
 [Check out my Designs on Thingiverse!](https://www.thingiverse.com/JimbalNy/designs)
 
 I'm an elevator constructor and electrician by trade but have always wanted to be an inventor, to make things and experiment with electronics.
@@ -34,6 +36,8 @@ Replacing the Rambo board in the Taz 5 with the 32 bit SKR 1.4 Turbo.
 ![Enclosure Preview](https://jimbalny.github.io/images/TazSKR_preview.png)
 
 #### **Octoprint Membrane Keypad Plug-In**
+
+![Membrane keypad](https://jimbalny.github.io/images/keypad.png)
 
 > [Octoprint Plug-In GitHub Repository](https://github.com/jimbalny/Octoprint-MembraneKeypad)
 

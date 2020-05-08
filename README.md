@@ -35,12 +35,14 @@ Replacing the Rambo board in the Taz 5 with the 32 bit SKR 1.4 Turbo.
 
 ![Enclosure Preview](https://jimbalny.github.io/images/TazSKR_preview.png)
 
-#### **Octoprint Membrane Keypad Plug-In**
+#### **Octoprint Membrane Keypad 3D Printer Control Plug-In**
 
 ![Membrane keypad](https://jimbalny.github.io/images/keypad.jpg)
 
 > [Octoprint Plug-In GitHub Repository](https://github.com/jimbalny/Octoprint-MembraneKeypad)
 
 > [Files to 3D print on Thingiverse](https://www.thingiverse.com/thing:3815645)
+
+Uses a cheap (~$5) 3x4 Membrane keypad, some 3d printed parts and a recycled cat6 patch cable to control a 3d printer over Octoprint. For example, jog X Y and Z axis, start or cancel prints, Extrude or Retract filament, etc.
 
 The Octoprint plug-in was never completed but works well for my personal use. I'd like to eventually add more functionality to the plug-in and make it worthy of publishing to the Plug-In Repository.

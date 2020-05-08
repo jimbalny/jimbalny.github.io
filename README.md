@@ -18,7 +18,7 @@ I started 3D printing back in 2012 sending my STL files to 3rd party print servi
 
 ## Current projects
 
-#### **Taz 5 SKR 1.4 Turbo Upgrade**
+### **Taz 5 SKR 1.4 Turbo Upgrade**
 
 > [Marlin Fork Github Repository](https://github.com/jimbalny/Marlin-Taz-5-SKR-1.4-Turbo)
 
@@ -35,7 +35,7 @@ Replacing the Rambo board in the Taz 5 with the 32 bit SKR 1.4 Turbo.
 
 ![Enclosure Preview](https://jimbalny.github.io/images/TazSKR_preview.png)
 
-#### **Octoprint Membrane Keypad 3D Printer Control Plug-In**
+### **Octoprint Membrane Keypad 3D Printer Control Plug-In**
 
 ![Membrane keypad](https://jimbalny.github.io/images/keypad.jpg)
 

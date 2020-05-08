@@ -4,6 +4,8 @@ This is the future home of all my current and past projects with all applicable 
 
 ### 3D Printing
 
+[Check out my Designs on Thingiverse!](https://www.thingiverse.com/JimbalNy/designs)
+
 I'm an elevator constructor and electrician by trade but have always wanted to be an inventor, to make things and experiment with electronics.
 
 When I saw the reprap project for the first time and how the plans for these awesome machines were open-source and available for the masses, I was hooked.
@@ -16,7 +18,7 @@ I started 3D printing back in 2012 sending my STL files to 3rd party print servi
 
 #### **Taz 5 SKR 1.4 Turbo Upgrade**
 
-https://github.com/jimbalny/Marlin-Taz-5-SKR-1.4-Turbo
+[Marlin Fork Github Repository](https://github.com/jimbalny/Marlin-Taz-5-SKR-1.4-Turbo)
 
 Replacing the Rambo board in the Taz 5 with the 32 bit SKR 1.4 Turbo.
 
@@ -27,8 +29,8 @@ Replacing the Rambo board in the Taz 5 with the 32 bit SKR 1.4 Turbo.
 
 #### *Octoprint Membrane Keypad Plug-In*
 
-https://github.com/jimbalny/Octoprint-MembraneKeypad
+[Octoprint Plug-In GitHub Repository](https://github.com/jimbalny/Octoprint-MembraneKeypad)
 
-https://www.thingiverse.com/thing:3815645
+[Files to 3D print on Thingiverse](https://www.thingiverse.com/thing:3815645)
 
 The Octoprint plug-in was never completed but works well for my personal use. I'd like to eventually add more functionality to the plug-in and make it worthy of publishing to the Plug-In Repository.

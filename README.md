@@ -2,34 +2,8 @@
 
 This is the future home of all my current and past projects with all applicable code and design files Open Sourced and put online for your use and edits!
 
-### Markdown
+### 3D Printing
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm an elevator constructor and electrician by trade but have always wanted to be an inventor, to make things and experiment with electronics. When I saw the reprap project for the first time and how the plans for these awesome machines were open-source and available for the masses, I was hooked. I started 3D printing back in 2012 sending my STL files to 3rd party print services. Bought my first 3D printer in 2015, a Lulzbot Taz 5. For my first machine I wanted something solid, open source for future upgrades, and would be a workhorse with a large print volume, the Taz 5 did not disappoint. 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jimbalny/jimbalny.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

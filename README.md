@@ -4,13 +4,13 @@ This is the future home of all my current and past projects with all applicable 
 
 ![My modified Taz 5](https://jimbalny.github.io/images/mytaz.jpg)
 
-[Check out my Designs on Thingiverse!](https://www.thingiverse.com/JimbalNy/designs)
+> [Check out my Designs on Thingiverse!](https://www.thingiverse.com/JimbalNy/designs)
 
 I'm an elevator constructor and electrician by day, Nerd by night. I've always been interested in invention, tinkering with electronics and programming but still love getting my hands dirty and making stuff work with these heavily calloused hands. I thought I could find that mix of disciplines being an Electrician but the work was repetitive and money wasn't all that great. Elevator construction is where I've found that so many different disciplines I love really intersect.
 
 Proud Union Member!
 
-![Local 1](https://jimbalny.github.io/images/local1.png)
+> ![Local 1](https://jimbalny.github.io/images/local1.png)
 
 
 

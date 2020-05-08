@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my projects page!
 
-You can use the [editor on GitHub](https://github.com/jimbalny/jimbalny.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is the future home of all my current and past projects with all applicable code and design files Open Sourced and put online for your use and edits!
 
 ### Markdown
 

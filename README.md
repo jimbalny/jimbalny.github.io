@@ -1,4 +1,4 @@
-## Welcome to my projects page!
+## James Balducci's Projects Page
 
 This is the future home of all my current and past projects with all applicable code and design files Open Sourced and put online for your use and edits!
 

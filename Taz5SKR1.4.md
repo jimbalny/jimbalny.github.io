@@ -1,8 +1,8 @@
 ## Lulzbot Taz 5 SKR 1.4 Turbo TMC2209 BLTouch TFT35
 
-> [Marlin Fork Github Repository](https://github.com/jimbalny/Marlin-Taz-5-SKR-1.4-Turbo)
+*Replacing the Rambo board in the Taz 5 with the 32 bit SKR 1.4 Turbo.*
 
-Replacing the Rambo board in the Taz 5 with the 32 bit SKR 1.4 Turbo.  
+> [Marlin Fork Github Repository](https://github.com/jimbalny/Marlin-Taz-5-SKR-1.4-Turbo)
 
 ### Upgrade Details
 
@@ -12,7 +12,7 @@ The build isn't yet completed but the firmware fork I'm working on is linked bel
 
 **Current Progress:**
 
-> - [x] Firmware modifications (Marlin 2.0.x)
+> - [x] Firmware modifications *(Marlin 2.0.x)*
 > - [ ] Design new control box enclosure *(In Progress)*
 > - [ ] Wiring and board replacement
 > - [ ] Test and first prints  

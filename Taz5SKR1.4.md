@@ -33,6 +33,14 @@ The build isn't yet completed but the firmware fork I'm working on is linked bel
 - [IDC Connectors and Crimp Tool](https://www.amazon.com/gp/product/B07WHFWMYQ/)  
 - [10-pin Ribbon Cable](https://www.amazon.com/gp/product/B07P77YRB2) (Needed to extend short LCD Cable)  
 
+### Optional Tools and Misc
+
+For going above and beyond for shielding cables:  
+
+- Copper Adhesive Tape (To shield LCD Cables)
+- 3/4" (or 20mm) x 48" Heatshrink (To shield LCD Cables)
+- 22AWG or 26AWG Green Hookup Wire (Shielding)
+
 ### Firmware
 
 - [Marlin Taz 5 SKR 1.4 Firmware Fork](https://github.com/jimbalny/Marlin-Taz-5-SKR-1.4-Turbo)

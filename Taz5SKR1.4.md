@@ -6,7 +6,7 @@ Replacing the Rambo board in the Taz 5 with the 32 bit SKR 1.4 Turbo.
 
 ### Upgrade Details
 
-The 
+(More information coming soon)
 
 ### Parts Purchase Links
 

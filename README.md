@@ -1,6 +1,8 @@
 ## James Balducci's Projects Page
 
-This is the future home of all my current and past projects with all applicable code and design files Open Sourced and put online for your use and edits!
+This is the future home of all my current and past projects with all applicable code and design files Open Sourced and put online for your use and edits!  
+  
+  
 
 ![My modified Taz 5](https://jimbalny.github.io/images/mytaz.jpg)
 
@@ -10,7 +12,9 @@ I'm an elevator constructor and electrician by day, Nerd by night. I've always b
 
 Proud Union Member!
 
-> ![Local 1](https://jimbalny.github.io/images/local1.png)
+> ![Local 1](https://jimbalny.github.io/images/local1.png)  
+  
+  
 
 
 ## Contents

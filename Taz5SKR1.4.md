@@ -41,6 +41,14 @@ For going above and beyond for shielding cables:
 - 3/4" (or 20mm) x 48" Heatshrink (To shield LCD Cables)
 - 22AWG or 26AWG Green Hookup Wire (Shielding)
 
+For getting the 24v Heated Bed off the SKR's Mosfet:
+
+- [Auber 100A DC-DC SSR Low On-Resistance](https://www.auberins.com/index.php?main_page=product_info&products_id=288)  
+    - ![SSR](https://jimbalny.github.io/images/SSR.jpg)  
+- [Auber External-Mount Heat Sink for 25A SSR](https://www.auberins.com/index.php?main_page=product_info&cPath=2_48&products_id=244)
+    - ![SSR Heatsink](https://jimbalny.github.io/images/Heatsink.jpg)  
+
+
 ### Firmware
 
 - [Marlin Taz 5 SKR 1.4 Firmware Fork](https://github.com/jimbalny/Marlin-Taz-5-SKR-1.4-Turbo)

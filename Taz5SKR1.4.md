@@ -44,9 +44,9 @@ The build isn't yet completed but the firmware fork I'm working on is linked bel
 **For getting the 24v Heated Bed off the SKR's Mosfet:**  
 
 - [Auber 100A DC-DC SSR Low On-Resistance](https://www.auberins.com/index.php?main_page=product_info&products_id=288)  
-     ![SSR](https://jimbalny.github.io/images/SSR.jpg)  
+    - ![SSR](https://jimbalny.github.io/images/SSR.jpg)  
 - [Auber External-Mount Heat Sink for 25A SSR](https://www.auberins.com/index.php?main_page=product_info&cPath=2_48&products_id=244)
-     ![SSR Heatsink](https://jimbalny.github.io/images/Heatsink.jpg)  
+    - ![SSR Heatsink](https://jimbalny.github.io/images/Heatsink.jpg)  
 
 
 ### Firmware

@@ -2,7 +2,8 @@
 
 *Replacing the Rambo board in the Taz 5 with the 32 bit SKR 1.4 Turbo.*
 
-> [Marlin Fork Github Repository](https://github.com/jimbalny/Marlin-Taz-5-SKR-1.4-Turbo)
+> [Marlin Fork Github Repository](https://github.com/jimbalny/Marlin-Taz-5-SKR-1.4-Turbo)  
+
 > [STL Files at Thingiverse](https://www.thingiverse.com/thing:4354523)
 
 ### Upgrade Details
